@@ -1,4 +1,4 @@
-# Realtime chat with Vue and Node ala WhatsApp
+# chat made by node and vue for WhatsApp
 
 Working example: [https://vuechat.amparo.dev/](https://vuechat.amparo.dev/)
 
